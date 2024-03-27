@@ -1,0 +1,9 @@
+beautifulsoup4
+bs4
+certifi
+dnspython
+Flask
+pymongo
+python-dotenv
+requests
+
